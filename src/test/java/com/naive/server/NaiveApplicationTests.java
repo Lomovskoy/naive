@@ -1,4 +1,4 @@
-package com.naive.server.naive;
+package com.naive.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
